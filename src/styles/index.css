@@ -9,3 +9,23 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.trafficLigth {
+    width: 7.5rem;
+    background-color: rgb(27, 25, 25);
+    border-radius: 1.25rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.ligth {
+    width: 5rem;
+    height: 5rem;
+}
+
+.glow {
+    box-shadow: 0.5rem 0.5rem 0.5rem  yellow;
+}
